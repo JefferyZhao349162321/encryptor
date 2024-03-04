@@ -25,4 +25,3 @@ def encryptor(word,key):
 word = input("What is the word you would like to encypt?\n")
 key = int(input("What is the key?\n"))
 print(encryptor(word,key))
-print("Another victory for JeffJeffGames")
